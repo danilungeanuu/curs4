@@ -25,4 +25,4 @@ Expected function or array of functions, received type ${typeof e}.`),te)}functi
 * vue v3.5.22
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
-**/function Vc(){ac()}Vc();const Uc=(e,t)=>{const n=e.__vccOpts||e;for(const[s,r]of t)n[s]=r;return n},Bc={};function Kc(e,t){return Wl(),Gl(_e,null,[t[0]||(t[0]=Ht("h1",null,"You did it!",-1)),t[1]||(t[1]=Ht("p",null,[ss(" Visit "),Ht("a",{href:"https://vuejs.org/",target:"_blank",rel:"noopener"},"vuejs.org"),ss(" to read the documentation ")],-1))],64)}const Wc=Uc(Bc,[["render",Kc],["__file","/app/src/App.vue"]]);jc(Wc).mount("#app");
+**/function Vc(){ac()}Vc();const Uc=(e,t)=>{const n=e.__vccOpts||e;for(const[s,r]of t)n[s]=r;return n},Bc={};function Kc(e,t){return Wl(),Gl(_e,null,[t[0]||(t[0]=Ht("h1",null,"Vite",-1)),t[1]||(t[1]=Ht("p",null,[ss(" Visit "),Ht("a",{href:"https://vuejs.org/",target:"_blank",rel:"noopener"},"vuejs.org"),ss(" to read the documentation ")],-1))],64)}const Wc=Uc(Bc,[["render",Kc],["__file","/app/src/App.vue"]]);jc(Wc).mount("#app");
